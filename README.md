@@ -38,6 +38,7 @@
 			<td><img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/astro.png" alt="Astro" title="Astro"/></td>
 			<td><img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/svelte.png" alt="Svelte" title="Svelte"/></td>
       <td><img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" alt="Flutter" title="Flutter"/></td>
+      <td><img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/expo.png" alt="Expo" title="Expo"/></td>
       </tr>
       <tr>
 			<td><img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite"/></td>
@@ -49,6 +50,7 @@
 			<td><img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></td>
 			<td><img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></td>
         <td><img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/></td>
+        <td><img width="25" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express.svg" alt="express" title="express"/></td>
         <td><img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png" alt="Material UI" title="Material UI"/></td>
 			<td><img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ant_design.png" alt="Ant Design" title="Ant Design"/></td>
 			<td><img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_ui.png" alt="Next UI" title="Next UI"/></td>
