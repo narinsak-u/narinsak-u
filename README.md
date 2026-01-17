@@ -9,8 +9,8 @@
 <!--![](/header.png)--->
 
 <!-- - 🔭 I’m a student of **KMUTT.** --->
-- 🔭 I’m currently learning **TypeScript, Next.js, Astro, Svelte, React Native, Docker, Go, Rust.**
-- 🔥 I'm interested in **UX/UI Design, Writing Skills, Software Testing,** and maybe **Data Science.**
+- 🔭 I’m currently learning **TypeScript, Next, Nest, Astro, Svelte, React Native, Docker, Go, Rust.**
+- 🔥 I'm interested in **UX/UI Design, Software Testing, Writing Skills** and maybe **Data Science.**
 - ✍️ I'm an apprentice blogger at **[alohadancemeow.dev](https://next-level-blog.vercel.app/)**  (Personal Blog)✌️
 
 ```bash
