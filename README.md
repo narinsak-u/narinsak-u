@@ -9,7 +9,7 @@
 <!--![](/header.png)--->
 
 <!-- - 🔭 I’m a student of **KMUTT.** --->
-- 🔭 I’m currently learning **TypeScript, Next, Nest, Astro, Svelte, React Native, Docker, Go, Rust, C#.**
+- 🔭 I’m currently learning **TypeScript, Next, Nest, Astro, Svelte, Vue, React Native, Docker, Go, Rust, C#.**
 - 🔥 I'm interested in **UX/UI Design, Software Testing, Writing Skills** and maybe **Data Science.**
 - ✍️ I'm an apprentice blogger at **[alohadancemeow.dev](https://next-level-blog.vercel.app/)**  (Personal Blog)✌️
 
